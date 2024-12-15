@@ -1,0 +1,302 @@
+# title|author|publish_year|ISBN|availability
+The Lord of the Rings|J.R.R. Tolkien|1954|111111111113|1
+1984|George Orwell|1949|111111111114|1
+Pride and Prejudice|Jane Austen|1813|111111111115|1
+To Kill a Mockingbird|Harper Lee|1960|111111111116|1
+The Great Gatsby|F. Scott Fitzgerald|1925|111111111117|1
+Moby-Dick|Herman Melville|1851|111111111118|1
+Crime and Punishment|Fyodor Dostoevsky|1866|111111111119|1
+War and Peace|Leo Tolstoy|1869|111111111120|1
+Anna Karenina|Leo Tolstoy|1877|111111111121|1
+Brave New World|Aldous Huxley|1932|111111111122|1
+The Catcher in the Rye|J.D. Salinger|1951|111111111123|1
+The Lord of the Rings|J.R.R. Tolkien|1954|111111111124|1
+The Hobbit|J.R.R. Tolkien|1937|111111111125|1
+Fahrenheit 451|Ray Bradbury|1953|111111111126|1
+Don Quixote|Miguel de Cervantes|1605|111111111127|1
+The Brothers Karamazov|Fyodor Dostoevsky|1880|111111111128|1
+Jane Eyre|Charlotte Brontë|1847|111111111129|1
+Wuthering Heights|Emily Brontë|1847|111111111130|1
+The Odyssey|Homer|-700|111111111131|1
+The Iliad|Homer|-750|111111111132|1
+Frankenstein|Mary Shelley|1818|111111111133|1
+Dracula|Bram Stoker|1897|111111111134|1
+The Divine Comedy|Dante Alighieri|1320|111111111135|1
+Les Misérables|Victor Hugo|1862|111111111136|1
+The Hunchback of Notre-Dame|Victor Hugo|1831|111111111137|1
+Great Expectations|Charles Dickens|1861|111111111138|1
+A Tale of Two Cities|Charles Dickens|1859|111111111139|1
+David Copperfield|Charles Dickens|1850|111111111140|1
+Oliver Twist|Charles Dickens|1839|111111111141|1
+Middlemarch|George Eliot|1871|111111111142|1
+The Scarlet Letter|Nathaniel Hawthorne|1850|111111111143|1
+The Picture of Dorian Gray|Oscar Wilde|1890|111111111144|1
+Ulysses|James Joyce|1922|111111111145|1
+A Portrait of the Artist as a Young Man|James Joyce|1916|111111111146|1
+The Trial|Franz Kafka|1925|111111111147|1
+The Metamorphosis|Franz Kafka|1915|111111111148|1
+The Sound and the Fury|William Faulkner|1929|111111111149|1
+As I Lay Dying|William Faulkner|1930|111111111150|1
+East of Eden|John Steinbeck|1952|111111111151|1
+Of Mice and Men|John Steinbeck|1937|111111111152|1
+The Grapes of Wrath|John Steinbeck|1939|111111111153|1
+The Old Man and the Sea|Ernest Hemingway|1952|111111111154|1
+A Farewell to Arms|Ernest Hemingway|1929|111111111155|1
+For Whom the Bell Tolls|Ernest Hemingway|1940|111111111156|1
+Slaughterhouse-Five|Kurt Vonnegut|1969|111111111157|1
+Catch-22|Joseph Heller|1961|111111111158|1
+Lolita|Vladimir Nabokov|1955|111111111159|1
+Pale Fire|Vladimir Nabokov|1962|111111111160|1
+One Hundred Years of Solitude|Gabriel García Márquez|1967|111111111161|1
+Love in the Time of Cholera|Gabriel García Márquez|1985|111111111162|1
+Beloved|Toni Morrison|1987|111111111163|1
+Song of Solomon|Toni Morrison|1977|111111111164|1
+Their Eyes Were Watching God|Zora Neale Hurston|1937|111111111165|1
+Invisible Man|Ralph Ellison|1952|111111111166|1
+Native Son|Richard Wright|1940|111111111167|1
+The Color Purple|Alice Walker|1982|111111111168|1
+Things Fall Apart|Chinua Achebe|1958|111111111169|1
+Heart of Darkness|Joseph Conrad|1899|111111111170|1
+Nostromo|Joseph Conrad|1904|111111111171|1
+The Stranger|Albert Camus|1942|111111111172|1
+The Plague|Albert Camus|1947|111111111173|1
+The Myth of Sisyphus|Albert Camus|1942|111111111174|1
+Siddhartha|Hermann Hesse|1922|111111111175|1
+Steppenwolf|Hermann Hesse|1927|111111111176|1
+Demian|Hermann Hesse|1919|111111111177|1
+The Master and Margarita|Mikhail Bulgakov|1967|111111111178|1
+Doctor Zhivago|Boris Pasternak|1957|111111111179|1
+The Count of Monte Cristo|Alexandre Dumas|1844|111111111180|1
+The Three Musketeers|Alexandre Dumas|1844|111111111181|1
+The Alchemist|Paulo Coelho|1988|111111111182|1
+The Kite Runner|Khaled Hosseini|2003|111111111183|1
+A Thousand Splendid Suns|Khaled Hosseini|2007|111111111184|1
+The Road|Cormac McCarthy|2006|111111111185|1
+No Country for Old Men|Cormac McCarthy|2005|111111111186|1
+Blood Meridian|Cormac McCarthy|1985|111111111187|1
+The Name of the Rose|Umberto Eco|1980|111111111188|1
+Foucault's Pendulum|Umberto Eco|1988|111111111189|1
+The Shadow of the Wind|Carlos Ruiz Zafón|2001|111111111190|1
+The Angel's Game|Carlos Ruiz Zafón|2008|111111111191|1
+Cloud Atlas|David Mitchell|2004|111111111192|1
+The Bone Clocks|David Mitchell|2014|111111111193|1
+Life of Pi|Yann Martel|2001|111111111194|1
+The Book Thief|Markus Zusak|2005|111111111195|1
+The Night Circus|Erin Morgenstern|2011|111111111196|1
+Circe|Madeline Miller|2018|111111111197|1
+The Song of Achilles|Madeline Miller|2011|111111111198|1
+A Game of Thrones|George R.R. Martin|1996|111111111199|1
+A Clash of Kings|George R.R. Martin|1998|111111111200|1
+A Storm of Swords|George R.R. Martin|2000|111111111201|1
+A Feast for Crows|George R.R. Martin|2005|111111111202|1
+A Dance with Dragons|George R.R. Martin|2011|111111111203|1
+Harry Potter and the Sorcerer's Stone|J.K. Rowling|1997|111111111204|1
+Harry Potter and the Chamber of Secrets|J.K. Rowling|1998|111111111205|1
+Harry Potter and the Prisoner of Azkaban|J.K. Rowling|1999|111111111206|1
+Harry Potter and the Goblet of Fire|J.K. Rowling|2000|111111111207|1
+Harry Potter and the Order of the Phoenix|J.K. Rowling|2003|111111111208|1
+Harry Potter and the Half-Blood Prince|J.K. Rowling|2005|111111111209|1
+Harry Potter and the Deathly Hallows|J.K. Rowling|2007|111111111210|1
+Percy Jackson & the Olympians: The Lightning Thief|Rick Riordan|2005|111111111211|1
+Percy Jackson & the Olympians: The Sea of Monsters|Rick Riordan|2006|111111111212|1
+Percy Jackson & the Olympians: The Titan's Curse|Rick Riordan|2007|111111111213|1
+And Then There Were None|Agatha Christie|1939|111111111214|1
+Murder on the Orient Express|Agatha Christie|1934|111111111215|1
+The Murder of Roger Ackroyd|Agatha Christie|1926|111111111216|1
+Death on the Nile|Agatha Christie|1937|111111111217|1
+The ABC Murders|Agatha Christie|1936|111111111218|1
+The Secret Adversary|Agatha Christie|1922|111111111219|1
+Peril at End House|Agatha Christie|1932|111111111220|1
+The Mysterious Affair at Styles|Agatha Christie|1920|111111111221|1
+The Man in the Brown Suit|Agatha Christie|1924|111111111222|1
+Hercule Poirot’s Christmas|Agatha Christie|1938|111111111223|1
+The Wheel of Time: The Eye of the World|Robert Jordan|1990|111111111224|1
+The Wheel of Time: The Great Hunt|Robert Jordan|1990|111111111225|1
+The Wheel of Time: The Dragon Reborn|Robert Jordan|1991|111111111226|1
+The Wheel of Time: The Shadow Rising|Robert Jordan|1992|111111111227|1
+The Wheel of Time: The Fires of Heaven|Robert Jordan|1993|111111111228|1
+The Wheel of Time: Lord of Chaos|Robert Jordan|1994|111111111229|1
+Dune|Frank Herbert|1965|111111111230|1
+Children of Dune|Frank Herbert|1976|111111111231|1
+Dune Messiah|Frank Herbert|1969|111111111232|1
+God Emperor of Dune|Frank Herbert|1981|111111111233|1
+Heretics of Dune|Frank Herbert|1984|111111111234|1
+Chapterhouse: Dune|Frank Herbert|1985|111111111235|1
+Foundation|Isaac Asimov|1951|111111111236|1
+Foundation and Empire|Isaac Asimov|1952|111111111237|1
+Second Foundation|Isaac Asimov|1953|111111111238|1
+I, Robot|Isaac Asimov|1950|111111111239|1
+The Caves of Steel|Isaac Asimov|1954|111111111240|1
+The Naked Sun|Isaac Asimov|1957|111111111241|1
+The Robots of Dawn|Isaac Asimov|1983|111111111242|1
+Robots and Empire|Isaac Asimov|1985|111111111243|1
+Neuromancer|William Gibson|1984|111111111244|1
+Count Zero|William Gibson|1986|111111111245|1
+Mona Lisa Overdrive|William Gibson|1988|111111111246|1
+Do Androids Dream of Electric Sheep?|Philip K. Dick|1968|111111111247|1
+Ubik|Philip K. Dick|1969|111111111248|1
+The Man in the High Castle|Philip K. Dick|1962|111111111249|1
+A Scanner Darkly|Philip K. Dick|1977|111111111250|1
+Valis|Philip K. Dick|1981|111111111251|1
+Minority Report and Other Stories|Philip K. Dick|1956|111111111252|1
+Solaris|Stanisław Lem|1961|111111111253|1
+Fiasco|Stanisław Lem|1986|111111111254|1
+His Dark Materials: The Golden Compass|Philip Pullman|1995|111111111255|1
+His Dark Materials: The Subtle Knife|Philip Pullman|1997|111111111256|1
+His Dark Materials: The Amber Spyglass|Philip Pullman|2000|111111111257|1
+The Hunger Games|Suzanne Collins|2008|111111111258|1
+Catching Fire|Suzanne Collins|2009|111111111259|1
+Mockingjay|Suzanne Collins|2010|111111111260|1
+Divergent|Veronica Roth|2011|111111111261|1
+Insurgent|Veronica Roth|2012|111111111262|1
+Allegiant|Veronica Roth|2013|111111111263|1
+Ender's Game|Orson Scott Card|1985|111111111264|1
+Speaker for the Dead|Orson Scott Card|1986|111111111265|1
+Xenocide|Orson Scott Card|1991|111111111266|1
+Children of the Mind|Orson Scott Card|1996|111111111267|1
+The Martian|Andy Weir|2011|111111111268|1
+Artemis|Andy Weir|2017|111111111269|1
+Project Hail Mary|Andy Weir|2021|111111111270|1
+2001: A Space Odyssey|Arthur C. Clarke|1968|111111111271|1
+2010: Odyssey Two|Arthur C. Clarke|1982|111111111272|1
+2061: Odyssey Three|Arthur C. Clarke|1987|111111111273|1
+3001: The Final Odyssey|Arthur C. Clarke|1997|111111111274|1
+Childhood's End|Arthur C. Clarke|1953|111111111275|1
+Rendezvous with Rama|Arthur C. Clarke|1973|111111111276|1
+The Fountains of Paradise|Arthur C. Clarke|1979|111111111277|1
+Stranger in a Strange Land|Robert A. Heinlein|1961|111111111278|1
+Starship Troopers|Robert A. Heinlein|1959|111111111279|1
+The Moon is a Harsh Mistress|Robert A. Heinlein|1966|111111111280|1
+Time Enough for Love|Robert A. Heinlein|1973|111111111281|1
+Ringworld|Larry Niven|1970|111111111282|1
+The Mote in God’s Eye|Larry Niven|1974|111111111283|1
+Lucifer’s Hammer|Larry Niven|1977|111111111284|1
+Snow Crash|Neal Stephenson|1992|111111111285|1
+Cryptonomicon|Neal Stephenson|1999|111111111286|1
+Anathem|Neal Stephenson|2008|111111111287|1
+Seveneves|Neal Stephenson|2015|111111111288|1
+Reamde|Neal Stephenson|2011|111111111289|1
+Good Omens|Terry Pratchett & Neil Gaiman|1990|111111111290|1
+American Gods|Neil Gaiman|2001|111111111291|1
+Coraline|Neil Gaiman|2002|111111111292|1
+Stardust|Neil Gaiman|1999|111111111293|1
+Neverwhere|Neil Gaiman|1996|111111111294|1
+The Sandman Vol. 1: Preludes & Nocturnes|Neil Gaiman|1989|111111111295|1
+The Color of Magic|Terry Pratchett|1983|111111111296|1
+Mort|Terry Pratchett|1987|111111111297|1
+Guards! Guards!|Terry Pratchett|1989|111111111298|1
+Small Gods|Terry Pratchett|1992|111111111299|1
+Night Watch|Terry Pratchett|2002|111111111300|1
+The Lies of Locke Lamora|Scott Lynch|2006|111111111301|1
+Red Seas Under Red Skies|Scott Lynch|2007|111111111302|1
+The Republic of Thieves|Scott Lynch|2013|111111111303|1
+Mistborn: The Final Empire|Brandon Sanderson|2006|111111111304|1
+Mistborn: The Well of Ascension|Brandon Sanderson|2007|111111111305|1
+Mistborn: The Hero of Ages|Brandon Sanderson|2008|111111111306|1
+The Way of Kings|Brandon Sanderson|2010|111111111307|1
+Words of Radiance|Brandon Sanderson|2014|111111111308|1
+Oathbringer|Brandon Sanderson|2017|111111111309|1
+Rhythm of War|Brandon Sanderson|2020|111111111310|1
+Elantris|Brandon Sanderson|2005|111111111311|1
+Warbreaker|Brandon Sanderson|2009|111111111312|1
+Steelheart|Brandon Sanderson|2013|111111111313|1
+To Kill a Mockingbird|Harper Lee|1960|111111111314|1
+The Great Gatsby|F. Scott Fitzgerald|1925|111111111315|1
+1984|George Orwell|1949|111111111316|1
+Brave New World|Aldous Huxley|1932|111111111317|1
+Animal Farm|George Orwell|1945|111111111318|1
+Fahrenheit 451|Ray Bradbury|1953|111111111319|1
+Of Mice and Men|John Steinbeck|1937|111111111320|1
+Catch-22|Joseph Heller|1961|111111111321|1
+The Catcher in the Rye|J.D. Salinger|1951|111111111322|1
+Slaughterhouse-Five|Kurt Vonnegut|1969|111111111323|1
+Lord of the Flies|William Golding|1954|111111111324|1
+The Grapes of Wrath|John Steinbeck|1939|111111111325|1
+East of Eden|John Steinbeck|1952|111111111326|1
+Moby-Dick|Herman Melville|1851|111111111327|1
+Pride and Prejudice|Jane Austen|1813|111111111328|1
+Sense and Sensibility|Jane Austen|1811|111111111329|1
+Emma|Jane Austen|1815|111111111330|1
+Mansfield Park|Jane Austen|1814|111111111331|1
+Northanger Abbey|Jane Austen|1817|111111111332|1
+Persuasion|Jane Austen|1817|111111111333|1
+Little Women|Louisa May Alcott|1868|111111111334|1
+Anne of Green Gables|L.M. Montgomery|1908|111111111335|1
+Jane Eyre|Charlotte Brontë|1847|111111111336|1
+Wuthering Heights|Emily Brontë|1847|111111111337|1
+The Scarlet Letter|Nathaniel Hawthorne|1850|111111111338|1
+Great Expectations|Charles Dickens|1861|111111111339|1
+A Tale of Two Cities|Charles Dickens|1859|111111111340|1
+David Copperfield|Charles Dickens|1850|111111111341|1
+Oliver Twist|Charles Dickens|1837|111111111342|1
+The Old Curiosity Shop|Charles Dickens|1840|111111111343|1
+Bleak House|Charles Dickens|1853|111111111344|1
+Hard Times|Charles Dickens|1854|111111111345|1
+Crime and Punishment|Fyodor Dostoevsky|1866|111111111346|1
+The Brothers Karamazov|Fyodor Dostoevsky|1880|111111111347|1
+Anna Karenina|Leo Tolstoy|1877|111111111348|1
+War and Peace|Leo Tolstoy|1869|111111111349|1
+The Death of Ivan Ilyich|Leo Tolstoy|1886|111111111350|1
+Madame Bovary|Gustave Flaubert|1856|111111111351|1
+The Count of Monte Cristo|Alexandre Dumas|1844|111111111352|1
+The Three Musketeers|Alexandre Dumas|1844|111111111353|1
+Les Misérables|Victor Hugo|1862|111111111354|1
+The Hunchback of Notre-Dame|Victor Hugo|1831|111111111355|1
+Don Quixote|Miguel de Cervantes|1605|111111111356|1
+One Hundred Years of Solitude|Gabriel García Márquez|1967|111111111357|1
+Love in the Time of Cholera|Gabriel García Márquez|1985|111111111358|1
+Chronicle of a Death Foretold|Gabriel García Márquez|1981|111111111359|1
+The House of the Spirits|Isabel Allende|1982|111111111360|1
+Daughter of Fortune|Isabel Allende|1999|111111111361|1
+Eva Luna|Isabel Allende|1987|111111111362|1
+The Shadow of the Wind|Carlos Ruiz Zafón|2001|111111111363|1
+The Angel’s Game|Carlos Ruiz Zafón|2008|111111111364|1
+The Prisoner of Heaven|Carlos Ruiz Zafón|2011|111111111365|1
+Dracula|Bram Stoker|1897|111111111366|1
+Frankenstein|Mary Shelley|1818|111111111367|1
+The Picture of Dorian Gray|Oscar Wilde|1890|111111111368|1
+The Strange Case of Dr Jekyll and Mr Hyde|Robert Louis Stevenson|1886|111111111369|1
+Treasure Island|Robert Louis Stevenson|1883|111111111370|1
+Robinson Crusoe|Daniel Defoe|1719|111111111371|1
+Gulliver’s Travels|Jonathan Swift|1726|111111111372|1
+Heart of Darkness|Joseph Conrad|1899|111111111373|1
+The Secret Agent|Joseph Conrad|1907|111111111374|1
+Nostromo|Joseph Conrad|1904|111111111375|1
+Ulysses|James Joyce|1922|111111111376|1
+Dubliners|James Joyce|1914|111111111377|1
+A Portrait of the Artist as a Young Man|James Joyce|1916|111111111378|1
+The Sound and the Fury|William Faulkner|1929|111111111379|1
+As I Lay Dying|William Faulkner|1930|111111111380|1
+Light in August|William Faulkner|1932|111111111381|1
+Absalom, Absalom!|William Faulkner|1936|111111111382|1
+Gone with the Wind|Margaret Mitchell|1936|111111111383|1
+A Farewell to Arms|Ernest Hemingway|1929|111111111384|1
+For Whom the Bell Tolls|Ernest Hemingway|1940|111111111385|1
+The Old Man and the Sea|Ernest Hemingway|1952|111111111386|1
+The Sun Also Rises|Ernest Hemingway|1926|111111111387|1
+To Have and Have Not|Ernest Hemingway|1937|111111111388|1
+In Our Time|Ernest Hemingway|1925|111111111389|1
+The Road|Cormac McCarthy|2006|111111111390|1
+Blood Meridian|Cormac McCarthy|1985|111111111391|1
+No Country for Old Men|Cormac McCarthy|2005|111111111392|1
+The Border Trilogy: All the Pretty Horses|Cormac McCarthy|1992|111111111393|1
+The Border Trilogy: The Crossing|Cormac McCarthy|1994|111111111394|1
+The Border Trilogy: Cities of the Plain|Cormac McCarthy|1998|111111111395|1
+A Song of Ice and Fire: A Game of Thrones|George R.R. Martin|1996|111111111396|1
+A Song of Ice and Fire: A Clash of Kings|George R.R. Martin|1998|111111111397|1
+A Song of Ice and Fire: A Storm of Swords|George R.R. Martin|2000|111111111398|1
+A Song of Ice and Fire: A Feast for Crows|George R.R. Martin|2005|111111111399|1
+A Song of Ice and Fire: A Dance with Dragons|George R.R. Martin|2011|111111111400|1
+Harry Potter and the Philosopher's Stone|J.K. Rowling|1997|111111111401|1
+Harry Potter and the Chamber of Secrets|J.K. Rowling|1998|111111111402|1
+Harry Potter and the Prisoner of Azkaban|J.K. Rowling|1999|111111111403|1
+Harry Potter and the Goblet of Fire|J.K. Rowling|2000|111111111404|1
+Harry Potter and the Order of the Phoenix|J.K. Rowling|2003|111111111405|1
+Harry Potter and the Half-Blood Prince|J.K. Rowling|2005|111111111406|1
+Harry Potter and the Deathly Hallows|J.K. Rowling|2007|111111111407|1
+The Hobbit|J.R.R. Tolkien|1937|111111111408|1
+The Fellowship of the Ring|J.R.R. Tolkien|1954|111111111409|1
+The Two Towers|J.R.R. Tolkien|1954|111111111410|1
+The Silmarillion|J.R.R. Tolkien|1977|111111111412|1
+Unfinished Tales|J.R.R. Tolkien|1980|111111111413|1
+thereturnoftheking|tolkien|1999|987654321012|1

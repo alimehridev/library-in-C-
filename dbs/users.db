@@ -1,0 +1,6 @@
+#username|password|role|status|phone
+admin|adminpass|admin|active|09123456789
+user1|password1|user|active|09123456788
+user2|password2|user|inactive|09123456787
+user3|password3|user|active|09222222222
+shalgham|654321|user|active|09333333333
